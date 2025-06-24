@@ -1,4 +1,4 @@
-## Zeldrith
+# Zeldrith
 
 This is the shared, public organization for the custom plugins used on Zeldrith, a public, unmodded, geopol Minecraft server with a focus on PvP and some lore and worldbuilding elements.
 
